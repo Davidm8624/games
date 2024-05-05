@@ -1,1 +1,1 @@
-# games
+# where i store the main source aswell as possible assets per project
